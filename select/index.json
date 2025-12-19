@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "AJR - Betty (Official Video)",
+  "base_artist": "AJR",
+  "createdAt": "2025-12-19T13:29:30.586849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AJR - BANG! (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/01_AJR_-_BANG!_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "AJR - The DJ Is Crying For Help (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/02_AJR_-_The_DJ_Is_Crying_For_Help_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AJR - Weak (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/03_AJR_-_Weak_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AJR - World's Smallest Violin (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/04_AJR_-_World's_Smallest_Violin_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "AJR - World's Smallest Violin (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/05_AJR_-_World's_Smallest_Violin_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AJR - Inertia (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/06_AJR_-_Inertia_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Celebrate (feat. AJR)",
+      "artist": "Ingrid Michaelson feat. AJR",
+      "has_synced": true,
+      "path": "select/07_Celebrate_(feat._AJR)_Ingrid_Michaelson_feat._AJR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Celebrate (feat. AJR)",
+      "artist": "Ingrid Michaelson AJR",
+      "has_synced": true,
+      "path": "select/08_Celebrate_(feat._AJR)_Ingrid_Michaelson_AJR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pretender (feat. Lil Yachty & AJR) [Mixed]",
+      "artist": "Steve Aoki",
+      "has_synced": false,
+      "path": "select/09_Pretender_(feat._Lil_Yachty_&_AJR)_[Mixed]_Steve_Aoki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pretender (feat. Lil Yachty & AJR)",
+      "artist": "Steve Aoki feat. Lil Yachty & AJR",
+      "has_synced": true,
+      "path": "select/10_Pretender_(feat._Lil_Yachty_&_AJR)_Steve_Aoki_feat._Lil_Yachty_&_AJR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pretender (feat. Lil Yachty & AJR)",
+      "artist": "Steve Aoki, Lil Yachty, AJR",
+      "has_synced": true,
+      "path": "select/11_Pretender_(feat._Lil_Yachty_&_AJR)_Steve_Aoki,_Lil_Yachty,_AJR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Record Player (with AJR)",
+      "artist": "Daisy the Great/AJR",
+      "has_synced": true,
+      "path": "select/12_Record_Player_(with_AJR)_Daisy_the_Great_AJR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer feat. AJR",
+      "has_synced": true,
+      "path": "select/13_All_My_Favorite_Songs_(feat._AJR)_Weezer_feat._AJR.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/14_All_My_Favorite_Songs_(feat._AJR)_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Darlin' (feat. AJR)",
+      "artist": "Mike Love",
+      "has_synced": true,
+      "path": "select/15_Darlin'_(feat._AJR)_Mike_Love.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (Feat. Ajr)",
+      "artist": "Weezer, Ajr",
+      "has_synced": true,
+      "path": "select/16_All_My_Favorite_Songs_(Feat._Ajr)_Weezer,_Ajr.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Record Player (with AJR)",
+      "artist": "Daisy the Great feat. AJR",
+      "has_synced": true,
+      "path": "select/17_Record_Player_(with_AJR)_Daisy_the_Great_feat._AJR.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Too Late (with AJR)",
+      "artist": "Quinn XCII feat. AJR",
+      "has_synced": true,
+      "path": "select/18_Too_Late_(with_AJR)_Quinn_XCII_feat._AJR.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/19_All_My_Favorite_Songs_(feat._AJR)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/20_All_My_Favorite_Songs_(feat._AJR)_Weezer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Betty",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/pl_01_Betty_AJR.txt"
+    }
+  ]
+}
